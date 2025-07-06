@@ -22,6 +22,9 @@ public class SingletonPattern{
 
         System.out.println("This is pattern");
 
+        System.out.println("");
+        
+
 
     }
 }
